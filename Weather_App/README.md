@@ -1,3 +1,4 @@
 # Weather_App
 
-Basic Weather App developed using Python 
+Weather App using Python and OpenWeather API.
+Shows temperature, humidity and weather conditions.
